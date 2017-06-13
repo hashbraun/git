@@ -1,1 +1,2 @@
-hello, world\nthe end
+hello, world
+the end
